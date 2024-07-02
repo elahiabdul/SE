@@ -1,0 +1,77 @@
+1,"Easypact CVS 40A, 3P MCCB, 25kA with TM based O/L & S/C release",Schneider,Easypact CVS,LV510303,1,4000,easy
+2,"Easypact CVS 100A, 3P MCCB, 25kA with TM based O/L & S/C release",Schneider,Easypact CVS,LV510307,1,4000,easy
+3,"Easypact CVS 160A, 3P MCCB, 25kA with TM based O/L & S/C release",Schneider,Easypact CVS,LV516303,1,7500,easy
+4,"Easypact CVS 200A, 3P MCCB, 25kA with TM based O/L & S/C release",Schneider,Easypact CVS,LV525302,1,10000,easy
+5,"Easypact CVS 250A, 3P MCCB, 25kA with TM based O/L & S/C release",Schneider,Easypact CVS,LV525303,1,11500,easy
+6,"Easypact CVS 40A, 4P MCCB, 25kA with TM based O/L & S/C release",Schneider,Easypact CVS,LV510313,1,5500,easy
+7,"Easypact CVS 100A, 4P MCCB, 25kA with TM based O/L & S/C release",Schneider,Easypact CVS,LV510317,1,5500,easy
+8,"Easypact CVS 160A, 4P MCCB, 25kA with TM based O/L & S/C release",Schneider,Easypact CVS,LV516313,1,9000,easy
+9,"Easypact CVS 200A, 4P MCCB, 25kA with TM based O/L & S/C release",Schneider,Easypact CVS,LV525312,1,12500,easy
+10,"Easypact CVS 250A, 4P MCCB, 25kA with TM based O/L & S/C release",Schneider,Easypact CVS,LV525313,1,14000,easy
+11,"Easypact CVS 100A, 3P MCCB, 25kA with MP based O/L & S/C release",Schneider,Easypact CVS,LV510551,1,10000,easy
+12,"Easypact CVS 160A, 3P MCCB, 25kA with MP based O/L & S/C release",Schneider,Easypact CVS,LV516505,1,13000,easy
+13,"Easypact CVS 250A, 3P MCCB, 25kA with MP based O/L & S/C release",Schneider,Easypact CVS,LV525505,1,17000,easy
+14,"Easypact CVS 100A, 4P MCCB, 25kA with MP based O/L & S/C release",Schneider,Easypact CVS,LV510581,1,13000,easy
+15,"Easypact CVS 160A, 4P MCCB, 25kA with MP based O/L & S/C release",Schneider,Easypact CVS,LV516508,1,16000,easy
+16,"Easypact CVS 250A, 4P MCCB, 25kA with MP based O/L & S/C release",Schneider,Easypact CVS,LV525508,1,22000,easy
+17,"Easypact CVS 400A, 3P MCCB, 36kA with TM based O/L & S/C release",Schneider,Easypact CVS,LV540306,1,16000,easy
+18,"Easypact CVS 630A, 3P MCCB, 36kA with TM based O/L & S/C release",Schneider,Easypact CVS,LV563307,1,21000,easy
+19,"Easypact CVS 400A, 4P MCCB, 36kA with TM based O/L & S/C release",Schneider,Easypact CVS,LV540309,1,20000,easy
+20,"Easypact CVS 630A, 4P MCCB, 36kA with TM based O/L & S/C release",Schneider,Easypact CVS,LV563310,1,27000,easy
+21,"Easypact CVS 400A, 3P MCCB, 36kA with MP based O/L & S/C release",Schneider,Easypact CVS,LV540505,1,19000,easy
+22,"Easypact CVS 630A, 3P MCCB, 36kA with MP based O/L & S/C release",Schneider,Easypact CVS,LV563505,1,21000,easy
+23,"Easypact CVS 400A, 4P MCCB, 36kA with MP based O/L & S/C release",Schneider,Easypact CVS,LV540506,1,25000,easy
+24,"Easypact CVS 630A, 4P MCCB, 36kA with MP based O/L & S/C release",Schneider,Easypact CVS,LV563506,1,29000,easy
+25,"Easypact CVS 400A, 3P MCCB, 50kA with MP based O/L & S/C release",Schneider,Easypact CVS,LV540510,1,22000,easy
+26,"Easypact CVS 630A, 3P MCCB, 50kA with MP based O/L & S/C release",Schneider,Easypact CVS,LV563510,1,23000,easy
+27,"Easypact CVS 400A, 4P MCCB, 50kA with MP based O/L & S/C release",Schneider,Easypact CVS,LV540511,1,28000,easy
+28,"Easypact CVS 630A, 4P MCCB, 50kA with MP based O/L & S/C release",Schneider,Easypact CVS,LV563511,1,31000,easy
+29,"Easypact CVS 400A, 3P MCCB, 36kA with MP based LSIG release",Schneider,Easypact CVS,LV540620,1,27000,easy
+30,"Easypact CVS 630A, 3P MCCB, 36kA with MP based LSIG release",Schneider,Easypact CVS,LV563620,1,30000,easy
+31,"Easypact CVS 400A, 4P MCCB, 36kA with MP based LSIG release",Schneider,Easypact CVS,LV540630,1,31000,easy
+32,"Easypact CVS 630A, 4P MCCB, 36kA with MP based LSIG release",Schneider,Easypact CVS,LV563630,1,36000,easy
+33,"Easypact CVS 400A, 3P MCCB, 50kA with MP based LSIG release",Schneider,Easypact CVS,LV540640,1,28000,easy
+34,"Easypact CVS 630A, 3P MCCB, 50kA with MP based LSIG release",Schneider,Easypact CVS,LV563640,1,31000,easy
+35,"Easypact CVS 400A, 4P MCCB, 50kA with MP based LSIG release",Schneider,Easypact CVS,LV540650,1,34000,easy
+36,"Easypact CVS 630A, 4P MCCB, 50kA with MP based LSIG release",Schneider,Easypact CVS,LV563650,1,41000,easy
+37,"1C/O Aux Contact, OF",Schneider,Easypact CVS,540-0274,1,250,Common
+38,Spreaders (Set of 3) 3P for 40 to 250A,Schneider,Easypact CVS,LV431563,1,1000,Common
+39,Spreaders (Set of 4) 4P for 40 to 250A,Schneider,Easypact CVS,LV431564,1,1000,Common
+40,Spreaders (Set of 3) 3P for 400/630A,Schneider,Easypact CVS,32492,1,1000,Common
+41,Spreaders (Set of 4) 4P for 400/630A,Schneider,Easypact CVS,32493,1,1000,Common
+42,Phase Barrier (Set of 6),Schneider,Easypact CVS,LV432570,1,600,Common
+43,Shunt trip release 240V AC,Schneider,Easypact CVS,LV429387,1,1000,Common
+44,Direct Rotary handle for 40 to 250A,Schneider,Easypact CVS,LV429337,1,1000,Common
+45,Direct Rotary handle for 400/630A,Schneider,Easypact CVS,LV432597,1,1000,Common
+46,"Compact NSX 40A, 3P MCCB, 25kA with TM based O/L & S/C release",Schneider,Compact NSX,C10B3TM040,1,6200,compact
+47,"Compact NSX 100A, 3P MCCB, 25kA with TM based O/L & S/C release",Schneider,Compact NSX,C10B3TM100,1,6200,compact
+48,"Compact NSX 160A, 3P MCCB, 25kA with TM based O/L & S/C release",Schneider,Compact NSX,C16B3TM160,1,11000,compact
+49,"Compact NSX 200A, 3P MCCB, 25kA with TM based O/L & S/C release",Schneider,Compact NSX,C25B3TM200,1,16000,compact
+50,"Compact NSX 250A, 3P MCCB, 25kA with TM based O/L & S/C release",Schneider,Compact NSX,C25B3TM250,1,17000,compact
+51,"Compact NSX 40A, 4P MCCB, 25kA with TM based O/L & S/C release",Schneider,Compact NSX,C10B6TM040,1,8900,compact
+52,"Compact NSX 100A, 4P MCCB, 25kA with TM based O/L & S/C release",Schneider,Compact NSX,C10B6TM100,1,8900,compact
+53,"Compact NSX 160A, 4P MCCB, 25kA with TM based O/L & S/C release",Schneider,Compact NSX,C16B6TM160,1,14000,compact
+54,"Compact NSX 200A, 4P MCCB, 25kA with TM based O/L & S/C release",Schneider,Compact NSX,C25B6TM200,1,18000,compact
+55,"Compact NSX 250A, 4P MCCB, 25kA with TM based O/L & S/C release",Schneider,Compact NSX,C25B6TM250,1,20000,compact
+56,"Compact NSX 100A, 3P MCCB, 25kA with MP based O/L & S/C release",Schneider,Compact NSX,C10B32D100,1,11000,compact
+57,"Compact NSX 160A, 3P MCCB, 25kA with MP based O/L & S/C release",Schneider,Compact NSX,C16B32D160,1,14000,compact
+58,"Compact NSX 250A, 3P MCCB, 25kA with MP based O/L & S/C release",Schneider,Compact NSX,C25B32D250,1,18500,compact
+59,"Compact NSX 100A, 4P MCCB, 25kA with MP based O/L & S/C release",Schneider,Compact NSX,C10B42D100,1,14000,compact
+60,"Compact NSX 160A, 4P MCCB, 25kA with MP based O/L & S/C release",Schneider,Compact NSX,C16B42D160,1,18000,compact
+61,"Compact NSX 250A, 4P MCCB, 25kA with MP based O/L & S/C release",Schneider,Compact NSX,C25B42D250,1,23000,compact
+62,"Compact NSX 400A, 3P MCCB, 36kA with MP based O/L & S/C release",Schneider,Compact NSX,C40F32D400,1,27000,compact
+63,"Compact NSX 630A, 3P MCCB, 36kA with MP based O/L & S/C release",Schneider,Compact NSX,C63F32D630,1,29000,compact
+64,"Compact NSX 400A, 4P MCCB, 36kA with MP based O/L & S/C release",Schneider,Compact NSX,C40F42D400,1,31000,compact
+65,"Compact NSX 630A, 4P MCCB, 36kA with MP based O/L & S/C release",Schneider,Compact NSX,C63F42D630,1,37000,compact
+66,"Compact NSX 400A, 3P MCCB, 50kA with MP based O/L & S/C release",Schneider,Compact NSX,C40N32D400,1,28000,compact
+67,"Compact NSX 630A, 3P MCCB, 50kA with MP based O/L & S/C release",Schneider,Compact NSX,C63N32D630,1,29000,compact
+68,"Compact NSX 400A, 4P MCCB, 50kA with MP based O/L & S/C release",Schneider,Compact NSX,C40N42D400,1,36000,compact
+69,"Compact NSX 630A, 4P MCCB, 50kA with MP based O/L & S/C release",Schneider,Compact NSX,C63N42D630,1,38000,compact
+70,"Compact NSX 400A, 3P MCCB, 36kA with MP based LSIG release",Schneider,Compact NSX,C40F36E400,1,28000,compact
+71,"Compact NSX 630A, 3P MCCB, 36kA with MP based LSIG release",Schneider,Compact NSX,C63F36E630,1,32000,compact
+72,"Compact NSX 400A, 4P MCCB, 36kA with MP based LSIG release",Schneider,Compact NSX,C40F46E400,1,31000,compact
+73,"Compact NSX 630A, 4P MCCB, 36kA with MP based LSIG release",Schneider,Compact NSX,C63F46E630,1,37000,compact
+74,"Compact NSX 400A, 3P MCCB, 50kA with MP based LSIG release",Schneider,Compact NSX,C40N36E400,1,28000,compact
+75,"Compact NSX 630A, 3P MCCB, 50kA with MP based LSIG release",Schneider,Compact NSX,C63N36E630,1,32000,compact
+76,"Compact NSX 400A, 4P MCCB, 50kA with MP based LSIG release",Schneider,Compact NSX,C40N46E400,1,35000,compact
+77,"Compact NSX 630A, 4P MCCB, 50kA with MP based LSIG release",Schneider,Compact NSX,C63N46E630,1,40000,compact
